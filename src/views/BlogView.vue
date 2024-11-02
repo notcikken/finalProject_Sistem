@@ -23,7 +23,7 @@ import JoinContent from '@/components/JoinContent.vue'
       </section>
 
       <!-- All Post -->
-      <section class="p-[80px] flex flex-col gap-8">
+      <section class="p-[80px] pt-[100px] flex flex-col gap-8">
         <h2 class="text-x-black text-4xl font-bold leading-[48px] tracking-[-2px]">All Post</h2>
         <div class="flex flex-col gap-8 pt-[48px] border-t border-x-mediumgrey border-opacity-32">
           <a href="blog/post" class="flex justify-start items-center gap-8">

@@ -12,13 +12,13 @@
           <a href="/blog" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Blog</a>
         </li>
         <li>
-          <a href="#" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">About Us</a>
+          <a href="/about" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">About Us</a>
         </li>
         <li>
-          <a href="#" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Contact Us</a>
+          <a href="/contact" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Contact Us</a>
         </li>
         <li>
-          <a href="#" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Privacy Policy</a>
+          <a href="/privacy" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Privacy Policy</a>
         </li>
       </ul>
     </div>

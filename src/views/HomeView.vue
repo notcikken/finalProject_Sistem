@@ -133,14 +133,12 @@ import FeaturedPost from '@/components/FeaturedPost.vue';
               </li>
             </ul>
           </div>
-          <div class="w-[296px] bg-x-lightyellow flex flex-col gap-4 p-6">
-            <a class="items-center justify-center" href="/author">
-              <img src="@/assets/images/misc/author-2.png" alt="Author 2" class="w-[128px] h-[128px]">
+          <div class="w-[296px] bg-x-lightgrey flex flex-col items-center justify-center gap-4 p-6 hover:bg-x-lightyellow hover:cursor-pointer transition duration-200 ease-in-out">
+            <img src="@/assets/images/misc/author-2.png" alt="Author 1" class="w-[128px] h-[128px]">
             <div class="flex flex-col items-center">
               <h3 class="text-x-black text-3xl font-bold leading-[40px] tracking-[-1px]">Dianne Russell</h3>
               <p class="text-x-mediumgrey leading-[28px] group-hover:text-white transition duration-200 ease-in-out">Content Writer @Company</p>
             </div>
-            </a>
             <ul class="flex items-center gap-6">
               <li>
                 <a href="#">
@@ -165,7 +163,7 @@ import FeaturedPost from '@/components/FeaturedPost.vue';
             </ul>
           </div>
           <div class="w-[296px] bg-x-lightgrey flex flex-col items-center justify-center gap-4 p-6 hover:bg-x-lightyellow hover:cursor-pointer transition duration-200 ease-in-out">
-            <img src="@/assets/images/misc/author-3.png" alt="Author 3" class="w-[128px] h-[128px]">
+            <img src="@/assets/images/misc/author-3.png" alt="Author 1" class="w-[128px] h-[128px]">
             <div class="flex flex-col items-center">
               <h3 class="text-x-black text-3xl font-bold leading-[40px] tracking-[-1px]">Jenny Wilson</h3>
               <p class="text-x-mediumgrey leading-[28px] group-hover:text-white transition duration-200 ease-in-out">Content Writer @Company</p>
@@ -194,10 +192,10 @@ import FeaturedPost from '@/components/FeaturedPost.vue';
             </ul>
           </div>
           <div class="w-[296px] bg-x-lightgrey flex flex-col items-center justify-center gap-4 p-6 hover:bg-x-lightyellow hover:cursor-pointer transition duration-200 ease-in-out">
-            <img src="@/assets/images/misc/author-4.png" alt="Author 4" class="w-[128px] h-[128px]">
+            <img src="@/assets/images/misc/author-4.png" alt="Author 1" class="w-[128px] h-[128px]">
             <div class="flex flex-col items-center">
-              <h3 class="text-x-black text-3xl font-bold leading-[40px] tracking-[-1px]">Lesly Alexander</h3>
-              <p class="text-x-mediumgrey leading-[28px]">Content Writer @Company</p>
+              <h3 class="text-x-black text-3xl font-bold leading-[40px] tracking-[-1px]">Leslie Alexander</h3>
+              <p class="text-x-mediumgrey leading-[28px] group-hover:text-white transition duration-200 ease-in-out">Content Writer @Company</p>
             </div>
             <ul class="flex items-center gap-6">
               <li>

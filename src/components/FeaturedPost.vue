@@ -1,6 +1,6 @@
 <template>
   <!-- Featured Post -->
-  <section class="bg-white px-[80px] py-[128px] flex justify-between gap-8">
+  <section class="bg-white px-[80px] py-[128px] flex col md:flex-row justify-between gap-8">
     <!-- Featured Post Section -->
     <div class="h-[804px] flex flex-col gap-4">
       <h2 class="text-x-black text-4xl font-bold leading-[48px] tracking-[-2px]">Featured Post</h2>

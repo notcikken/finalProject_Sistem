@@ -5,7 +5,7 @@ import FooterContent from '@/components/FooterContent.vue'
 
 <template>
   <HeaderContent />
-  <main>
+  <main class="justify-center items-center">
     <slot></slot>
   </main>
   <FooterContent />
